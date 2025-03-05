@@ -8,6 +8,7 @@ class GlazerCalc
 		string widthString, heightString;
 
 		Console.WriteLine("Enter the width of the window:");
+		Console.WriteLine("Blah");
 		widthString = Console.ReadLine();
 		width = double.Parse(widthString);
 
